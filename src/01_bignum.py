@@ -2,3 +2,9 @@
 # (try doing the same thing in the JS console and see what it outputs)
 
 # YOUR CODE HERE
+
+
+value = 2
+power = 65536
+
+print(value**power)
